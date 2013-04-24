@@ -1,0 +1,18 @@
+{
+    "author" : "@_ralph",
+    "description" : "A barebones set of methods for interacting with This Is My Jam's OAuth system.",
+    "devDependencies" : {
+        "oauth" : "x"
+    },
+    "licenses" : [ {
+        "type" : "WTFPL",
+        "url" : "http://www.wtfpl.net/txt/copying/"
+    } ],
+    "main" : "index.js",
+    "name" : "OAuth Token Request Example For This Is My Jam",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/echonest/timj-oauth-examples/node"
+    },
+    "version" : "0.0.1"
+}
